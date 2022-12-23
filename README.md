@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📝 I regularly post photo on [facebook.com/ONISsAHa](facebook.com/ONISsAHa)
+- 📝 I regularly post photo on [https://www.facebook.com/ONISsAHa](https://www.facebook.com/ONISsAHa)
 
 - 📫 How to reach me **onissaha@outlook.in**
 
